@@ -26,7 +26,7 @@
     margin-bottom: 0;
     color: white;
     max-width: 251px;
-    font-family: "Inter";
+    font-family: "Inter" , Arial, sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 44px;
@@ -46,7 +46,7 @@
     color: white;
     list-style-type: none;
     margin: 0 0 20px;
-    font-family: "Noto Serif";
+    font-family: "Noto Serif" , Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -58,7 +58,6 @@
 }
 
 .about__circle {
-    animation: pulsate 1.3s ease-in-out infinite;
     background-color: #2f80ed;
     width: 426px;
     height: 426px;
@@ -69,4 +68,7 @@
     z-index: 0;
 }
 
+.about__circle_animation_blurred {
+    animation: pulsate 1.3s ease-in-out infinite;
+}
 
