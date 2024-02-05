@@ -35,7 +35,7 @@
 .header__description {
     max-width: 683px;
     margin: 28px 0 0;
-    font-family: "Noto Serif" , Arial, sans-serif;
+    font-family: "Noto Serif" , Arial, serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -44,7 +44,7 @@
 
 .header__span-accent {
     display: block;
-    font-family: "Noto Serif" , Arial, sans-serif;
+    font-family: "Noto Serif" , Arial, serif;
     font-style: italic;
     font-weight: normal;
     font-size: 60px;
