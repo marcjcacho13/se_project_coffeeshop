@@ -45,8 +45,8 @@
 .about__paragraph {
     color: white;
     list-style-type: none;
-    margin: 0 0 20px;
-    font-family: "Noto Serif" , Arial, serif;
+    margin: 0 0 20px; 
+    font-family: "Noto Serif" , Georgia ,serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
